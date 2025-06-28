@@ -85,14 +85,6 @@ Downloaded files will be saved in the folder you choose, in `.mp4` or `.m4a` for
 
 ---
 
-### 🛠️ Coming Soon
-
-* GUI version (Tkinter or PyQt)
-* `.exe` standalone builder
-* Progress bar integration
-* Smart auto-quality selector (best merged + size optimized)
-
----
 
 ### ❤️ Credits
 
